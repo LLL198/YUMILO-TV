@@ -8,4 +8,3 @@ Android TV 影视播放器，安装包包含 ARM32 与 ARM64，支持 Android 7.
 
 安装此包后，可在应用设置中检查后续更新。
 
-GitHub 自动生成的 Source code 压缩包仅含下载说明 README，没有播放器源码。
