@@ -4,7 +4,7 @@ Android TV 影视播放器，安装包包含 ARM32 与 ARM64，支持 Android 7.
 
 ## 下载
 
-**[直接下载安装包：Yumilo-tv 0.0.3](https://github.com/LLL198/YUMILO-TV/releases/download/v0.0.3/Yumilo-tv-0.0.3.apk)**
+**[直接下载安装包：Yumilo-tv 0.0.4](https://github.com/LLL198/YUMILO-TV/releases/download/v0.0.4/Yumilo-tv-0.0.4.apk)**
 
 安装此包后，可在应用设置中检查后续更新。
 
